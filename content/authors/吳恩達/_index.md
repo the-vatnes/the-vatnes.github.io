@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My background is in Mechanical Engineering and Computer Science.
+bio: My name is Matt Vatne and I currently work as a Data Engineer for Ohio State Athletics and the [Human Performance Collaborative](hpc.osu.edu). My responsibilities include building secure, scalable, and stable ways to ingest, store, transform, and report data related to human performance. I serve all 36 varsity sports at Ohio State and also translate my work to the Department of Defense and other human performance research projects. My education background is in Mechanical Engineering and Computer Science.
 
 interests:
   - Microsoft Fabric
