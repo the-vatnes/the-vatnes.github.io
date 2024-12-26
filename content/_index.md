@@ -14,7 +14,9 @@ sections:
       text: |
         <br>
         
-        Hi! We are Matt and Emaly Vatne and we work across the entire data lifecycle for Ohio State Athletics and also lead the contextualization of data and translation to action that helps put athletes in the best position to perform. The purpose of this site is to serve as a portfolio of our work and demonstrate our growth over time.
+        Hi! We are Matt and Emaly Vatne! We work with Ohio State Athletics to manage every step of the data lifecycle, including ingestion, storage, transformation, and visualization. We also help sport coaches, strength and conditioning coaches, and athletic trainers make sense of the information to help put each athlete in the best position to succeed. Additionally, we lead the conceptualization of research projects and authorship of peer-reviewed articles.
+        
+        The purpose of this site is to serve as a portfolio of our work and demonstrate our growth over time.
   
   - block: collection
     content:
