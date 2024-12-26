@@ -11,7 +11,7 @@ sections:
       text: |-
         We'd love to connect! Please feel free to contact us if there is any way we can help you or if there's something you're interested in discussing.
 
-      email: vatnes1417@gmail.com
+      email: vatnes1418@gmail.com
       phone: 5868053003
       # address:
       #   street: 450 Serra Mall

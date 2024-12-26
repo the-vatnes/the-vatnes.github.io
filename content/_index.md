@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        The Vatne's
+        Matt and Emaly Vatne
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The Vatne's work across the entire data lifecycle for Ohio State Athletics and also lead the contextualization of data and translation to action that helps put athletes in the best position to perform.
+        Hi! We are Matt and Emaly Vatne and we work across the entire data lifecycle for Ohio State Athletics and also lead the contextualization of data and translation to action that helps put athletes in the best position to perform. The purpose of this site is to serve as a portfolio of our work and demonstrate our growth over time.
   
   - block: collection
     content:

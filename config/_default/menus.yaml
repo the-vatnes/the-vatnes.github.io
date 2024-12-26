@@ -7,7 +7,7 @@ main:
   # - name: Tour
   #   url: tour
   #   weight: 10
-  - name: People
+  - name: About Us
     url: people
     weight: 30
   - name: Example Work
